@@ -6,7 +6,7 @@ layout: default
 
 # Kirby
 
-A Nintendo Character
+A Nintendo Character Zaile li
 
 - - -
 
