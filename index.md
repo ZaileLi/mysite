@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Yaqi Yi](YYQ.jpg)
+![](YYQ.jpg)
 
 # YYQ, Happy Mid-Autumn Festival
 
